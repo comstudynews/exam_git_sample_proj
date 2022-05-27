@@ -1,3 +1,6 @@
+// 1. 작성자 : 김범준
+// 2. contact : comstudy21@naver.com
+// 3. write day :  2022-05-27
 const http = require('http');
 const express = require('express');
 const app = express();
